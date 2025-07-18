@@ -47,14 +47,4 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 Try It
 
-After setup, run:
-
-```bash
-python app.py
-```
-
-Open your browser at the provided local address and interact with the contextual chatbot.
-
----
